@@ -17,7 +17,7 @@
     --tlarge2:22px;
     --txlarge:25px;
     --tx2large:32px;
-    --tgiant:clamp(40px, 8w, 80px);
+    --tgiant:clamp(40px, 8vw, 80px);
     @media screen and (max-width:488px){
         --tx2large:25px;
     }
