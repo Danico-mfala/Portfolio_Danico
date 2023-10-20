@@ -13,7 +13,7 @@ function Hero() {
             </h2>
 
             <h3 className="hero-title-large hero-title-sub">
-                I craft things for web.
+                I craft things for web. 
             </h3>
             <p className="hero-text">
                 I&apos;m a software engineer with expertise in creating top-notvh digital

@@ -1,5 +1,6 @@
 body{
     background-color: var(--backround-color);
+    counter-increment: title;
 }
 *{
     margin: 0;
