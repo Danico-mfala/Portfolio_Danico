@@ -1,6 +1,9 @@
 body{
     background-color: var(--backround-color);
-    counter-increment: title;
+    counter-reset: title;
+}
+body,html{
+    scroll-behavior: smooth;
 }
 *{
     margin: 0;
