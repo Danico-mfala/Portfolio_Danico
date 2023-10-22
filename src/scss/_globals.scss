@@ -3,7 +3,7 @@ body{
     counter-reset: title;
 }
 body,html{
-    scroll-behavior: smooth;
+    scroll-behavior:smooth !important;
 }
 *{
     margin: 0;
