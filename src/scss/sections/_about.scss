@@ -143,13 +143,11 @@
                     height: 223px;
                     width: 223px;
                 }
-
                 &-container {
                     height: 223px;
                     width: 223px;
                 }
             }
-
             &-info {
                 &-list {
                     grid-template-columns: 1fr;
@@ -160,7 +158,6 @@
 
     @media screen and (max-width: 768px) {
         margin: 5rem auto;
-
         .title {
             h2 {
                 &::after {
@@ -168,7 +165,6 @@
                 }
             }
         }
-
         &-grid {
             &-photo {
                 margin-top: 3rem;
@@ -177,19 +173,16 @@
                     height: 300px;
                     width: 300px;
                 }
-
                 &-container {
                     height: 300px;
                     width: 300px;
                 }
             }
-
             &-info {
                 &-text {
                     margin-right: 0;
                 }
             }
-
             display: flex;
             justify-content: center;
             align-items: center;
@@ -205,14 +198,12 @@
                 }
             }
         }
-
         &-grid {
             &-photo {
                 .overlay {
                     height: 223px;
                     width: 223px;
                 }
-
                 &-container {
                     height: 223px;
                     width: 223px;

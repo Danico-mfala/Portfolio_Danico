@@ -21,8 +21,6 @@ function Index() {
         <Projects />
         <Contact />
       </main>
-      
-      
     </div>
   );
 }

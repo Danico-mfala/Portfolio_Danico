@@ -93,7 +93,6 @@
                  }
              }
          }
-
          .exp-details {
              height: 40vh;
              font-family: var(--raleway);
@@ -105,11 +104,9 @@
                      color: var(--theme-color);
                  }
              }
-
              &-range {
                  color: var(--light-slate);
              }
-
              &-list {
                  list-style-type: none;
                  display: flex;
@@ -135,7 +132,6 @@
              }
          }
      }
-
      @media screen and (max-width: 968px) {
          .title {
              h2 {
@@ -145,7 +141,6 @@
              }
          }
      }
-
      @media screen and (max-width: 600px) {
          margin: 5rem auto;
 
@@ -171,7 +166,6 @@
              }
          }
      }
-
      @media screen and (max-width: 480px) {
          .title {
              h2 {
