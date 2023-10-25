@@ -18,7 +18,7 @@ function SocialIcons() {
         {
             name: "Linkedin",
             icon: <FiLinkedin />,
-            link: "#"
+            link: "https://www.linkedin.com/in/mfala-dan-19ab9917b/"
         },
         {
             name: "Instagram",

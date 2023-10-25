@@ -6,9 +6,9 @@ import { motion } from 'framer-motion';
 function Projects() {
     const projectsData = [
         {
-            image: "/home/danico/Documents/Developer/Next_projeect/portfolio/portfolio_dan/public/images/work1.png",
+            image: "/../images/projects/himalaya.png",
             projectName: "Himalaya Travel Agency",
-            projectLink: "",
+            projectLink: "https://himalayatravel.net/study-in-north-cyprus/",
             projectDescription: "Lorem aiudaudasydsadnsiadsiduaisduasduasdybsdusaydsuagsdy",
             projectTech: [
                 "PHP","Javascript","Mysql","css"
