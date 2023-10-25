@@ -13,7 +13,7 @@ function SocialIcons() {
         {
             name: "Github",
             icon: <FiGithub />,
-            link: "#"
+            link: "https://github.com/Danico-mfala"
         },
         {
             name: "Linkedin",
@@ -28,7 +28,7 @@ function SocialIcons() {
         {
             name: "Twitter",
             icon: <FiTwitter />,
-            link: "#"
+            link: "https://twitter.com/mfaladan"
         }
     ]
   return (
