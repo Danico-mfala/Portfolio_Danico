@@ -18,12 +18,12 @@ function Projects() {
                 externalLink:"",
             }
         }, {
-            image: "/../images/work1.png",
-            projectName: "Node Farm",
+            image: "/../images/projects/rootacademie.png",
+            projectName: "Root Academie",
             projectLink: "",
-            projectDescription: "#",
+            projectDescription: "Root Academie is a platform for online study for free",
             projectTech: [
-                "Node js","Express","javascript","Mongo db"
+                "Javascript","Mysql","PHP","css"
             ],
             projectExternalLinks: {
                 github: "",
