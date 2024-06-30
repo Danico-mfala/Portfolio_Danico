@@ -6,34 +6,10 @@ import { motion } from 'framer-motion';
 function Projects() {
     const projectsData = [
         {
-            image: "/../images/projects/himalaya.png",
-            projectName: "Himalaya Travel Agency",
-            projectLink: "https://himalayatravel.net/study-in-north-cyprus/",
-            projectDescription: "Lorem aiudaudasydsadnsiadsiduaisduasduasdybsdusaydsuagsdy",
-            projectTech: [
-                "PHP", "Javascript", "Mysql", "css"
-            ],
-            projectExternalLinks: {
-                github: "",
-                externalLink: "",
-            }
-        }, {
-            image: "/../images/projects/rootacademie.png",
-            projectName: "Root Academie",
-            projectLink: "",
-            projectDescription: "Root Academie is a platform for online study for free",
-            projectTech: [
-                "Javascript", "Mysql", "PHP", "css"
-            ],
-            projectExternalLinks: {
-                github: "",
-                externalLink: "",
-            }
-        }, {
             image: "/../images/projects/root_tech.png",
             projectName: "Root Tech",
             projectLink: "https://www.roottechpro.com/",
-            projectDescription: "#",
+            projectDescription: "Root Tech, a cutting-edge technology company, to develop their portfolio website using Next.js and TypeScript. This project involves creating a dynamic, responsive, and user-friendly platform to showcase Root Tech's innovative projects and diverse service offerings.",
             projectTech: [
                 "Next", "Typescript", "Tailwind CSS",
             ],
@@ -41,7 +17,72 @@ function Projects() {
                 github: "",
                 externalLink: "",
             }
-        }
+        },
+        {
+            image: "/../images/projects/dashboard.png",
+            projectName: "Dashboard",
+            projectLink: "#",
+            projectDescription: "I recently worked on a front-end project to create a modern dashboard using React.js and Material-UI. The goal was to develop an intuitive, user-friendly interface that provides a comprehensive overview of key metrics and data insights.",
+            projectTech: [
+                "React", "JavaScript/TypeScript", "Material - UI", "Chart.js ", "CSS",
+            ],
+            projectExternalLinks: {
+                github: "",
+                externalLink: "",
+            }
+        },
+        {
+            image: "/../images/projects/himalaya.png",
+            projectName: "Himalaya Travel Agency",
+            projectLink: "https://himalayatravel.net/study-in-north-cyprus/",
+            projectDescription: "The educational consultant Himalaya Travel allows students to search, find and apply to all North Cyprus universities for  free. They bridge the gap between universities and students.The goal of this project was to build a UI/ UX design and development of the website website, and management system.",
+            projectTech: [
+                "PHP", "Javascript", "Mysql", "css"
+            ],
+            projectExternalLinks: {
+                github: "",
+                externalLink: "",
+            }
+        },
+        {
+            image: "/../images/projects/productive_machine.png",
+            projectName: "Productive Machine",
+            projectLink: "https://productivemachines.co.uk/",
+            projectDescription: "I participated in the development of Productive machine, a project at Cypruscodes aimed at enhancing productivity through efficient task management and collaboration tools. My role involved both back-end and front-end development to ensure a seamless and functional user experience.",
+            projectTech: [
+                "Html", "Javascript", "Xest", "css"
+            ],
+            projectExternalLinks: {
+                github: "",
+                externalLink: "",
+            }
+        },
+        {
+            image: "/../images/projects/guestlist.png",
+            projectName: "GuestList",
+            projectLink: "https://app.ontheglist.com/authentication/login?returnUrl=%2F",
+            projectDescription: "I contributed to the development of Guestlist, a project designed to manage and streamline event guest lists, enhancing the overall event management process. My role involved working on both back-end and front-end components to deliver a seamless user experience.",
+            projectTech: [
+                "React", "Javascript", "Xest", "css"
+            ],
+            projectExternalLinks: {
+                github: "",
+                externalLink: "",
+            }
+        },
+        {
+            image: "/../images/projects/rootacademie.png",
+            projectName: "Root Academie",
+            projectLink: "https://www.rootacademie.com/",
+            projectDescription: "Root Académie, a free learning platform built with PHP and MySQL. This project aims to provide accessible and high-quality educational resources to users worldwide, fostering a community of learners and educators.",
+            projectTech: [
+                "Javascript", "Mysql", "PHP", "css"
+            ],
+            projectExternalLinks: {
+                github: "",
+                externalLink: "",
+            }
+        },
 
     ]
     return (

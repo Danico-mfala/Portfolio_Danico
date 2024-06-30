@@ -68,10 +68,7 @@ function Hero() {
                     delay: 1.65,
                 }}
             >
-                <Button
-                    text='Download My CV'
-                    link='../../public/Doc/dan_mfala.pdf'
-                />
+                <Button text="Resume" link="/Doc/dan_mfala.pdf" />
             </motion.div>
         </div>
     );

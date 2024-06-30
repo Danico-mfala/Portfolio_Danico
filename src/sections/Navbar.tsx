@@ -1,26 +1,27 @@
-import Button from "@/components/Button";
 import Logo from "@/components/Logo";
 import Link from "next/link";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { CgClose } from "react-icons/cg";
 import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
+import Button from "@/components/Button";
+
 function Navbar() {
   const [navbarVisible, setNavbarVisible] = useState(false);
   const [responsiveNavVisible, setResponsiveNavVisible] = useState(false);
   const sectionLinks = [
-      {
-          name: "About",
-          link: "/#about"
-      },
-      {
-          name: "Experience",
-          link: "/#experience"
-      },
-      {
-          name: "Work",
-          link: "/#work"
-      },
+    {
+      name: "About",
+      link: "/#about"
+    },
+    {
+      name: "Experience",
+      link: "/#experience"
+    },
+    {
+      name: "Work",
+      link: "/#work"
+    },
     {
       name: "Contact",
       link: "/#contact",
@@ -132,7 +133,7 @@ function Navbar() {
               delay: 0.6,
             }}
           >
-            <Button text="Resume" link="http://localhost:3000/resume.pdf" />
+            <Button text="Resume" link="/Doc/dan_mfala.pdf" />
           </motion.div>
         </div>
       </div>

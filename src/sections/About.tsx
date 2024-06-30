@@ -28,25 +28,18 @@ function About() {
             <div className="about-grid">
                 <div className="about-grid-info">
                     <p className="about-grid-info-text">
-                        Bonjour! My name is Dan Mfala, and I am passionate about
-                        creating digital content for the web and mobile.
-                        My interest in web and mobile development was
-                        spareked in 2019 when I created my first project called RobotSecur,
-                        a social media app built using React and Node.js
+                        Hello! My name is Dan Mfala. I'm a mechatronics engineer with a passion for software development.
+                        I started programming in 2019 ,I enjoy creating digital solutions that exceed client expectations.
                     </p>
                     <p className="about-grid-info-text">
-                        Fast-forward to today, I specializee in designing and deceloping
+                        Fast-forward to today, I specializee in designing and developing
                         high-quality solutions that delight our cliens and exceed their
                         expectations at{" "}
-                        <Link href="#" className='link' target='_blank'>
+                        {/* <Link href="#" className='link' target='_blank'>
                             ......
-                        </Link>
+                        </Link> */}
                     </p>
-                    <p className="about-grid-info-text">
-                        Addionally, I share my knowlege and passion with the world
-                        through my Discord channel, where I demonstrate how to build full-stack applications.
-                    </p>
-                    <p className="about-grid-info-text">
+                    {/* <p className="about-grid-info-text">
                         I am aslo working on new project called&nbsp;
                         <Link
                             className='link'
@@ -56,7 +49,7 @@ function About() {
                             FrontendVite
                         </Link>
                         &nbsp;aimed at enhancing frontend development skills.
-                    </p>
+                    </p> */}
                     <p className="about-grid-info-text">
                         Here are a few technologies I&apos;ve bee working with recently;
                     </p>
