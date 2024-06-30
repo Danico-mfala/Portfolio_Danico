@@ -28,7 +28,7 @@ function About() {
             <div className="about-grid">
                 <div className="about-grid-info">
                     <p className="about-grid-info-text">
-                        Bonjour!My name is Dan Mfala, and I am passionate about
+                        Bonjour! My name is Dan Mfala, and I am passionate about
                         creating digital content for the web and mobile.
                         My interest in web and mobile development was
                         spareked in 2019 when I created my first project called RobotSecur,
@@ -70,7 +70,9 @@ function About() {
                         <li className="about-grid-info-list-item">CSS</li>
                         <li className="about-grid-info-list-item">Python</li>
                         <li className="about-grid-info-list-item">Javascript</li>
+                        <li className="about-grid-info-list-item">Xest.js</li>
                         <li className="about-grid-info-list-item">PHP</li>
+                        <li className="about-grid-info-list-item">C++</li>
                     </ul>
                 </div>
                 <div className="about-grid-photo">

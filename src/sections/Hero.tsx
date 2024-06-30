@@ -13,7 +13,7 @@ function Hero() {
                 transition={{
                     duration: 0.3,
                     ease: "easeInOut",
-                    delay:0.6
+                    delay: 0.6
                 }}
             >
                 Hi my name is
@@ -25,9 +25,8 @@ function Hero() {
                 transition={{
                     duration: 0.3,
                     ease: "easeInOut",
-                    delay:0.75,
+                    delay: 0.75,
                 }}
-                
             >
                 Dan Mfala
             </motion.h2>
@@ -39,10 +38,10 @@ function Hero() {
                 transition={{
                     duration: 0.3,
                     ease: "easeInOut",
-                    delay:1.05
+                    delay: 1.05
                 }}
             >
-                I craft things for web. 
+                I craft things for web.
             </motion.h3>
             <motion.p
                 className="hero-text"
@@ -51,10 +50,10 @@ function Hero() {
                 transition={{
                     duration: 0.3,
                     ease: "easeInOut",
-                    delay:1.35
+                    delay: 1.35
                 }}
             >
-                I&apos;m a software engineer with expertise in creating top-notvh digital
+                I&apos;m a software engineer with expertise in creating top-notch digital
                 experiences. My current focus is on developing products that are accessible
                 and centered around user needs, as part of the team at &nbsp;
                 <Link href="#" target='_blank' className='link'>...</Link>
@@ -66,15 +65,16 @@ function Hero() {
                 transition={{
                     duration: 0.3,
                     ease: "easeInOut",
-                    delay:1.65,
+                    delay: 1.65,
                 }}
             >
-                <Button text='Check out my course'
-                    link='#'
+                <Button
+                    text='Download My CV'
+                    link='../../public/Doc/dan_mfala.pdf'
                 />
             </motion.div>
         </div>
     );
 }
 
-export default Hero
+export default Hero;
