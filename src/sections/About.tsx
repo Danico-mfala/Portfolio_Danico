@@ -49,8 +49,8 @@ function About() {
                         <Image
                             src="/images/profile/profile.png"
                             alt="Profile"
-                            width={300}
-                            height={300}
+                            width={200}
+                            height={200}
                         />
                     </div>
                 </div>
