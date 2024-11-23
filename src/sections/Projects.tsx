@@ -116,7 +116,7 @@ function Projects() {
                             <div className="project-image">
                                 <div className="project-image-overlay"></div>
                                 <div className="project-image-container">
-                                    <Image src={image} fill alt="My-project" quality={100} />
+                                    <Image src={image} fill alt="myProject" quality={100} />
                                 </div>
                             </div>
                             <div className="project-info">

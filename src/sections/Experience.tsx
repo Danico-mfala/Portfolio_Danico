@@ -17,7 +17,7 @@ function Experience() {
         {
             name: "Elbas F.T.D",
             role: "Full Stack Developer",
-            url: "https://cypruscodes.com/",
+            url: "https://www.elbasftd.com/",
             start: "September 2024",
             end: "Present",
             shortDescription: ["art-time, I work as a software developer at Elbas, where I create websites and mobile apps."],
