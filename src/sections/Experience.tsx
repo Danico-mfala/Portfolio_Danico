@@ -15,8 +15,16 @@ function Experience() {
     }, [selected])
     const experiences = [
         {
+            name: "Elbas F.T.D",
+            role: "Full Stack Developer",
+            url: "https://cypruscodes.com/",
+            start: "September 2024",
+            end: "Present",
+            shortDescription: ["art-time, I work as a software developer at Elbas, where I create websites and mobile apps."],
+        },
+        {
             name: "CyprusCodes",
-            role: "Junior Full Stack Developer",
+            role: "Full Stack Developer",
             url: "https://cypruscodes.com/",
             start: "May 2022",
             end: "Nov 2023",
