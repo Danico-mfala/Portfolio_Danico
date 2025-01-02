@@ -20,7 +20,7 @@ function Experience() {
             url: "https://www.elbasftd.com/",
             start: "September 2024",
             end: "Present",
-            shortDescription: ["art-time, I work as a software developer at Elbas, where I create websites and mobile apps."],
+            shortDescription: ["Part-time, I work as a software developer at Elbas, where I create websites and mobile apps."],
         },
         {
             name: "CyprusCodes",
